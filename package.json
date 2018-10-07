@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Luy Tran <octopitus@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/octopitus/eslint-config-octopitus"
+  },
   "license": "MIT",
   "peerDependencies": {
     "babel-eslint": "^10.0.1",
