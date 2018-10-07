@@ -1,4 +1,4 @@
-> My personal eslint configuration
+> My personal eslint configuration. Included StandardJS/React/Flowtype/Prettier
 
 # Installation
 
